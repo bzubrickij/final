@@ -10,6 +10,20 @@
     height: 1400px !important;
     padding: 0 10px;
   }
+   .icons .icon1 p,
+  .icons .icon2 p,
+  .icons .icon3 p {
+    font-size: 28px;
+    padding-bottom: 10px;
+    width: 300px;
+  }
+  .icons .icon1 h3,
+  .icons .icon2 h3,
+  .icons .icon3 h3 {
+    font-size: 28px;
+    padding-bottom: 10px;
+    width: 300px;
+  }
   .icons .icon1 {
     padding: 50px;
   }
