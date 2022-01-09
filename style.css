@@ -353,6 +353,7 @@ button:hover {
 .icons p {
   font-size: 20px;
   line-height: 30px;
+  width: 70%;
 }
 .icons p i {
   font-size: 70px;
